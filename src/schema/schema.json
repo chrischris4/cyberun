@@ -65,7 +65,7 @@
             }
           },
           "p02": {
-            "title": "Are you currently student ?",
+            "title": "Are you currently a student ?",
             "description": "If you're currently student and also working for a company, check no",
             "type": "string",
             "enum": [
@@ -76,7 +76,7 @@
             "ve": 10
           },
           "i01": {
-            "title": "In which countries did you worked / How long (in percent) ?",
+            "title": "In which countries have you worked / How long (in percent) ?",
             "type": "array",
             "description": "Please be sure to include only countries where you effectively worked more than 7 days",
             "ve": 10,
